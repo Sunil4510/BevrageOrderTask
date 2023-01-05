@@ -75,7 +75,6 @@ describe('MUI Select Component', () => {
 
         /*selecting flavour end*/
 
-
       /*placing order */
 
       const allorders = screen.getByText("Place Order")
