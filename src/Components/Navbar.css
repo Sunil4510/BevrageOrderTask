@@ -1,0 +1,25 @@
+.navbar{
+    width: 100vw;
+    height: 5rem;
+    background-color: aqua;
+}
+.navbar_mode{
+    margin-right: 0.5rem;
+    width: 6.2rem;
+    padding: 0.7rem;
+    border-radius: 0.35rem;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+}
+.light{
+    background-color: white;
+    color: black;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
