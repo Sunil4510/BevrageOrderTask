@@ -136,7 +136,6 @@ describe('MUI Select Component', () => {
 
         /*selecting flavour end*/
 
-
       /*changing order end*/
 
         /* selecting only category */
